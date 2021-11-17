@@ -15,6 +15,13 @@ Copy the .env.example and rename it to ".env" then use your own credentials !
 + OUTPUT_DIRECTORY : The directory used to save the backup and the registry
 + MINECRAFT_WORLD_NAME : Your minecraft world name, by default "world"
 
+## Run it !
+
+```bash
+python3 main.py
+```
+
+
 ## Contributing
 You could update this package by opening a ticket and propose something
 Or fork this project !
