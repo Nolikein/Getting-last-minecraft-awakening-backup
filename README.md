@@ -3,7 +3,8 @@
 This software allow you to download the last minecraft awakening backup available
 It uses the backupstore.txt provided by the "/backup" command in game each time a backup is run to know which backup file is the lastest.
 
-## Configure it !
+## Configure it !
+
 Copy the .env.example and rename it to ".env" then use your own credentials !
 
 ### Env data
